@@ -22,6 +22,3 @@ This project implements a Convolutional Neural Network (CNN) in MATLAB to detect
 1.  **Training (Optional):** To retrain the network, run `Train.m`. This will generate or overwrite `CNN.mat`.
 2.  **Image Detection:** Ensure `CNN.mat` exists and run `MaskDetection.m`. It uses the image specified inside the script (`Input/test-3.jpg`).
 3.  **Video Detection:** Ensure the `Input/video.mp4` file is present and run `MaskDetectionVideo.m`.
-
----
-*Created by [Your Name]*
