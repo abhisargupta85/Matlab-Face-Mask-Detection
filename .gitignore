@@ -1,0 +1,12 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# MATLAB/IDE Files
+*.asv
+*.bak
+*.log
+*.p
+*.mex*
+# Ignore the entire built-in documentation folder if one exists
+doc/
